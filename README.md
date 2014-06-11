@@ -1,3 +1,5 @@
+**This isn't the fork you want. It's a special case for my own purposes**
+
 django-mysql-fix
 ================
 
